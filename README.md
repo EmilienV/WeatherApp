@@ -1,6 +1,7 @@
 <h1 align="center" id="title">Weather App</h1>
 
-<p id="description">Here is a Weather app project made by Volkaert Emilien</p>
+<p id="description">Here is a Weather app project made by Volkaert Emilien.</p>
+<p>This project is made for mobile</p>
 
 <h2>🚀 Demo</h2>
 
