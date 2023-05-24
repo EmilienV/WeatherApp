@@ -11,6 +11,7 @@
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
+* HTML, CSS, Javascript
 
 *   To build this project i used two differents api's which are :
 *   https://openweathermap.org/api
